@@ -31,6 +31,8 @@
     "mocha-multi": "^1.1.0"
   },
   "dependencies": {
-    "chai-fs": "^2.0.0"
+    "audit": "^0.0.6",
+    "chai-fs": "^2.0.0",
+    "npm": "^8.12.0"
   }
 }
